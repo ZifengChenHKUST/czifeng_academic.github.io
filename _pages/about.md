@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zifeng Chen received th e B.S. degree from Shenyang University of Technology, Shenyang, China, in 2018, the M.S. degree from Newcastle University, Newcastle upon Tyne, U.K., in 2020, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, China, in 2026, under the Guangzhou Pilot Scheme. He was a Visiting Scholar at University College London, London, U.K. His research interests include motor drives and control.
+Zifeng Chen received the B.S. degree from Shenyang University of Technology, Shenyang, China, in 2018, the M.S. degree from Newcastle University, Newcastle upon Tyne, U.K., in 2020, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, China, in 2026, under the Guangzhou Pilot Scheme. He was a Visiting Scholar at University College London, London, U.K. His research interests include motor drives and control.
 
 A data-driven personal website
 ======
